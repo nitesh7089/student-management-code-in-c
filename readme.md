@@ -1218,5 +1218,5 @@ char design4(char* x,char* y,char* z)
 
 
 ## Downlaod
-If you want to donwload this file goto the  code button when you click the button dropdown menu will apear than you click on download zip and file is download on your local system.
+If you want to donwload this file goto the  code button when you click the button dropdown menu will apear than you click on download zip and file is download on your local system or You can clone this repository.
 
